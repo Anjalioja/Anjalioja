@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Anjali Ojha
+🎓 MSc Computer Science Student | 💻 Python & ML Learner | 🌱 Exploring Data Science  
 
-<!--
-**Anjalioja/Anjalioja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning: **Pandas, NumPy, and Machine Learning Algorithms**  
+- 👩‍💻 Practicing projects with **Tkinter (Desktop Apps)** and **Flask (Web Apps)**  
+- 📫 Reach me: [anjaliojhaa22@gmail.com]  
+- ⚡ Goal: To become a **Data Analyst & ML Developer** 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack (Learning & Practicing)
+- **Languages:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn (ML basics)  
+- **Frameworks:** Tkinter (GUI), Flask (Web Framework)  
+- **Databases:** SQLite, MySQL  
+- **Other Tools:**  GitHub, VS Code  
+
+---
+
+## 📌 Current Projects
+🔹 **Learning ML Algorithms** – Implemented basics like Linear Regression, Logistic Regression, KNN, and Decision Trees.  
+🔹 **Tkinter Desktop Apps** – Small apps for calculator.  
+🔹 **Flask Chatbot** – Building a chatbot with ML-based intent recognition and admin panel.  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+⭐️ From [Anjali Ojha](https://github.com/Anjalioja)
