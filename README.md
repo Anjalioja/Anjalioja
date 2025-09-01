@@ -31,7 +31,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjaliojha&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-anjaliojha&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaliojha&layout=compact&theme=radical)
 
 ---
 
