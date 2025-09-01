@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Current Projects
-🔹 [MGSU Campus Chatbot 🤖](https://github.com/anjaliojha/mgsu-chatbot)  
+🔹 [MGSU Campus Chatbot 🤖](https://github.com/anjaliojha/mgsuchatbot)  
 🔹 **Learning ML Algorithms** – Implemented basics like Linear Regression, Logistic Regression, KNN, and Decision Trees.  
 🔹 **Tkinter Desktop Apps** – Small apps for calculator.  
 🔹 **Flask Chatbot** – Building a chatbot with ML-based intent recognition and admin panel.  
